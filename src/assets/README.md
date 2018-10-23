@@ -1,0 +1,1 @@
+This is where statis assets can be placed.
